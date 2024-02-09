@@ -194,17 +194,7 @@ const Home = () => {
                         <h2>Ketan Doshi                    </h2>
                         <h3>(Head of operations)           </h3>
                         <br></br>
-                        <h2>Himanshu Devi                 </h2>
-                        <h3>(Software Developer)           </h3>
-                        <br></br>
-                        <h2>Omkar Sutar</h2>
-                        <h3>(Software Developer)</h3>
-                        <br></br>
-                        <h2>Shreyash Bendre</h2>
-                        <h3>(Retension and social connect)</h3>
-                        <br></br>
-                        <h2> Aditya Jadav</h2>
-                        <h3>(Intern Web Developer)</h3>
+              
                         
 
                         
